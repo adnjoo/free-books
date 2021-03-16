@@ -14,3 +14,6 @@ https://aimeeknight.files.wordpress.com/2016/01/the-war-of-art_fastpencil_pbo.pd
 
 computer science
 https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf
+https://cs.fit.edu/~ryan/cse1002/lectures/introduction.pdf
+https://www-users.cs.umn.edu/~barry/book1.2.pdf
+http://blough.ece.gatech.edu/3020/focs.pdf
